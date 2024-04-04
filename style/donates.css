@@ -1,0 +1,136 @@
+.container{
+    text-align: center;
+    padding: 200px;
+    background-image: url(../images/donation3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat; 
+}
+ .all-title{
+    font-weight: 400px;
+    font-size: 39px;
+    text-align: center;
+      
+} 
+ .header-element{
+     color: red;
+     text-align: center;
+ }
+ .primary{
+    text-align: center;
+    
+    background-color: yellow;
+    border: 5px solid;
+    padding: 5px;
+     
+ }
+ .fivevlog{
+      
+    display: flex;
+    margin-left: 300px;
+ }
+ .five{
+    height: 100px;
+    box-shadow: 0px 6px 50px ; 
+    gap: 30px;
+    width: 80px;
+    font-size: 50px;
+    font-weight: 400;
+     padding: 80px;
+    text-align: center;
+    gap: 24px;
+     
+ }
+ .normal{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+ }
+ .pre-primary{
+    margin-top: 15px;
+    margin-left: 750px;
+    color: yellow;
+    font-size: 50px;
+    font-weight: 400;
+    background-color: black;
+    margin-bottom: 50px;
+ }
+ .three{
+    display: flex;
+    gap: 30px;
+ }
+ .three-div{
+    background: #FFFFFF;
+   
+    box-shadow: 0px 6px 50px ; 
+    border-radius: 5px;
+    padding: 10px;
+    text-align:left;
+    padding-top: 50px;
+    margin-bottom: 150px;
+ }
+ .three-div.img{
+    padding-top: 15px;
+ }
+.title{
+    text-align: left;
+    font-size: 39px;
+    font-weight: 400px;
+}
+.some{
+    display: flex;
+    margin-left: 100px;
+    gap: 50px;
+}
+.some-title{
+    font-size: 40px;
+    font-weight: 500px;
+     
+}
+.some-div{
+    margin-top: 100px;
+    margin-bottom: 300px;
+     
+      
+}
+.some-btn{
+color: red;
+background: #FFFFFF;
+font-size: 39px;
+font-weight: 39px;
+}
+.some-element{
+    font-size: 25px;
+    font-weight: 25px;
+}
+.last-div{
+    display: flex;
+    margin-bottom: 150px;
+}
+.somelast-div{
+    margin-left: 50px;
+}
+.subscribe{
+     margin-top: 150px;
+      width: 500px;
+            border: 15px solid green;
+            padding: 50px;
+            text-align: center;
+            margin-left: 650px;
+            margin-bottom: 150px;
+            
+}
+.lastbtn{
+    font-size: 25px;
+    font-weight: 25px;
+    padding: 10px;
+    
+     
+}
+.foot{
+    font-weight: 400px;
+    font-size: 30px;
+    text-align: center;
+    padding: 150px;
+    color: white;
+     background-color: black;
+}
